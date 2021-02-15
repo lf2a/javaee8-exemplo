@@ -1,4 +1,4 @@
-package com.airhacks;
+package com.lf2a;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
