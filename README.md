@@ -14,3 +14,5 @@ Or
 ```shell script
 mvn package payara-micro:start
 ```
+
+[Link para baixar o payara](https://www.payara.fish/downloads/payara-platform-community-edition/)

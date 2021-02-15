@@ -1,3 +1,4 @@
 .idea
 *.iml
 /target/
+payara-micro-5.2021.1.jar
